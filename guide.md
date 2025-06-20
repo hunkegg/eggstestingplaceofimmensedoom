@@ -27,10 +27,31 @@ For example, in my Highway project, I could've copy and pasted a keyswitch secti
 
 Essentially, the Circular Pattern tool allows me to copy a part in Fusion around in a circle, and requires an axis to rotate around. First, I drew a sketch on the part to find the "center" of the ring, then created an axis through that point with the Construct tool. Since that axis is exactly in the center of the ring, I can use that axis for my Circular Pattern, making the process **MUCH** easier and faster.
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/2db0929d-6e11-4346-a48f-19b6868ea3f1" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/386dabd5-77ed-4991-af41-e2b07769ca46" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/386dabd5-77ed-4991-af41-e2b07769ca46" /> <br/>
+
+Construct tools often feed or help with other tools, such as **Offset Plane** or **Plane at Angle** helping with *custom angles in sketches*, or the **Axis** tools helping with Pattern-type tools like *Rectangular/Circular Pattern* as mentioned above. I ***strongly*** recommend learning these if you want to improve your modeling! <br/>
+> offset plane is my favorite btw, super good for the loft tool!
 
 ### 2) Learn more Fusion tools!
-The best thing I can say to get better at CAD is to explore the software, really <br/>
+While *Extrude* may get you by 80% of the time in CAD, learning other tools can help spice up your design! I ***strongly*** recommend getting familiar with the 4 tools mentioned below! <br/>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/7056a717-a406-4fcc-861b-c495956f2f9e" /> <br/>
+| tool name |  |
+| --------- | --------- |
+| extrude | the basic extrude; extends a sketch perpendicular to the sketch plane |
+| revolve | revolves a sketch around an axis; good for objects like vases or bottles |
+| sweep | extends a sketch along a custom path (often another sketch perpendicular to the other sketch plane); good for pipes or tubes |
+| loft | connects the edges between two sketches; good for adapters or in my case, keycaps! | <br/>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ac7770c9-49d8-4afa-98f3-85479e84b25d" /> <br/>
+> an example of loft in action! I used **Offset Plane** to create the other sketch, then used loft to create the general shape of the keycap
+
+Here is a list of other Fusion tools I recommend learning:
+| tool name |  |  |
+| --------- | --------- | --------- |
+| Project | used in sketches, projects a 3D object onto a sketch plane. ***VERY*** helpful in designing screw holes for PCBs or for making correct sizings for other parts like keycap stems. | <img width="200" alt="image" src="https://github.com/user-attachments/assets/9f5f5617-2b5f-449c-8aa9-b5ddc8406e4c" /> |
+| New Component | used to store components in CAD. helpful for organizing models with a million imported components like my keyboard. | <img width="200" alt="image" src="https://github.com/user-attachments/assets/29b4c461-d6ad-438b-8910-97c9c8b562b1" /> |
+
+
+
 
 
 
