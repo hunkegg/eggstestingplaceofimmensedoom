@@ -49,7 +49,13 @@ Create Form is a feature in Fusion 360 that allows users to create objects calle
 
 <img width="1185" alt="image" src="https://github.com/user-attachments/assets/4571d296-b006-40bd-9855-f75ca7971054" /> <br/>
 
-Create form is best used on organic shapes that are often extremely hard to recreate with the standard extrude/loft/sweep of regular CAD.
+Create form is best used on organic or irregular shapes that are often extremely hard to recreate with the standard extrude/loft/sweep of regular CAD. For example, I used Create Form to make a seat as part of a chair project for school, which allowed me to make a unique and comfortable shape for the seat. <br/>
+
+The use of Create Form also allowed me to easily change the geometry of the seat with the Edit Form tool. While regular extrusions require going back to the sketch and changing dimensions, Forms can be directly morphed by dragging and rotating vertices and lines, making Forms much easier to work with when dealing with complex, irregular shapes. <br/>
+> btw for those curious, the seat was made out of a Form cube with two of the main faces removed, then was shifted around with Edit Form to resemble a chair. <br/>
+
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/450bf74c-bd9c-4815-8f00-c5a101d1ca41" /> <br/>
+
 
 
 
