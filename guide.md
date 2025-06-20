@@ -56,15 +56,6 @@ Here is a list of other Fusion tools I recommend learning:
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a1f6f433-caca-4818-b1c7-5641d2193268" />
 > examples of using the Canvas tool to design the decorative eyes!
 
-
-
-
-
-
-
-
-
-
 ## Method 1: Fillet/Chamfer
 This is by far the simplest way to make something that looks nice. <br/>
 
