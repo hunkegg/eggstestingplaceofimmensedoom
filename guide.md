@@ -18,6 +18,7 @@ For example, while the truck bumper uses sharp edges and chamfers in places such
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/bdaedd31-52d1-4240-b709-7a50df6b2bc4" /> <br/>
 
+### rounding extrusions!
 While fillets are typically used to only round down external edges, the fillet and chamfer command can actually do much more! For example, fillets can round out interior edges, such as the intersection of the bottom and wall of a box. <br/>
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/ac676772-4b97-4b78-8fb3-984398323ef5" /> <br/>
@@ -35,6 +36,16 @@ The two fillets on the top of the rectangle led to the top being rounded and cir
 **BUT BE WARNED!!!** The fillet/chamfer tool can also be the source of many headaches and pain! Fusion will typically not allow fillets if a certain part of an extrusion is too small or is destroyed when a fillet is applied! <br/>
 
 <img width="800" alt="I HATE YOU FUSION" src="https://github.com/user-attachments/assets/ec9c4ad6-3ae2-47a4-9473-905e1a8e40a3" />
+
+## Method 2: Create Form
+This method is more obscure and difficult than using fillets/chamfers, but can also yeild great results if used correctly! <br/>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/c7a33e14-e5c2-42d2-a0b4-2984179c0f98" />
+
+Create Form is a feature in Fusion 360 that allows users to create objects called "Forms". These forms are different than normal bodies, and are instead made up of faces, edges, and points, as seen in the graphic below. Out of all of these tools, users will most likely be using the **Edit Form** tool, which allows users to move and rotate individual vertices, edges, and faces to morph the form to their liking. <br/>
+
+<img width="1185" alt="image" src="https://github.com/user-attachments/assets/4571d296-b006-40bd-9855-f75ca7971054" /> <br/>
+
+Create form is best used on organic shapes that are often extremely hard to recreate with the standard extrude/loft/sweep of regular CAD.
 
 
 
