@@ -8,13 +8,16 @@ This is less of a *guide* per se, and more so a collection of CAD techniques use
 <img width="300" alt="toy truck bumper attachment" src="https://github.com/user-attachments/assets/c9f5d41c-9ce6-412b-83b6-dd5bdc61d720" />
 <img width="180" alt="shrimp" src="https://github.com/user-attachments/assets/51bec500-ec75-4bdb-b8f4-4decb190dfcb" />
 
+| table o' contents |  |
+| Method 1: | Fillets/Chamfer |
+| Method 2: | Edit Form |
+| Methdod 3: | Surface Tools |
+| general tips! |  |
 
 ## Method 1: Extrude + Fillet/Chamfer
 This is by far the simplest way to make something that looks nice. <br/>
 
 I used fillets extensively in my custom keycaps and eye, where I needed to replicate an organic-like shape. Sharp angles are typically not seen in nature, and are often used in more modern/futuristic or man-made designs, such as my toy truck bumper attachment I made for a school assignment. While both can be used interchangably in a simple design, such as making a macropad look a tiny bit better, knowing where to put fillets and chamfers can make a pretty noticable difference.<br/>
-
-For example, while the truck bumper uses sharp edges and chamfers in places such as the teeth and shaker scoop (that engine thing on the hood) that signify something man-made and rugged, the truck also uses rounded fillets on the sides of the car to create a softer feeling, as well as fillets on the bulbs to make the bulbs seem "older" or antique. While a regular, flat circular cut inwards would have sufficed for the bulbs, the addition of the bulbs creates more of that "scrappy" feel to the design. <br/>
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/bdaedd31-52d1-4240-b709-7a50df6b2bc4" /> <br/>
 
