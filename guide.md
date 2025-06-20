@@ -24,9 +24,10 @@ The Contstruct Tools in Fusion are a set of tools that allow the user to create 
 <img width="290" alt="image" src="https://github.com/user-attachments/assets/c8852a5b-5e39-4930-92f8-8ba69e4039d9" /> <br/>
 
 For example, in my Highway project, I could've copy and pasted a keyswitch section 8 times and moved them around to form a ring, I instead used the Construct tool **"Axis Perpendicular to a Face at Point"** in combination with a sketch to create an axis of rotation to use a Circular Pattern. (i know that sounds like jargon but i'll try my best to break it down) <br/>
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/e07f4ba0-35f9-4f38-baa9-1a695e4f701e" /> <br/>
+
 Essentially, the Circular Pattern tool allows me to copy a part in Fusion around in a circle, and requires an axis to rotate around. First, I drew a sketch on the part to find the "center" of the ring, then created an axis through that point with the Construct tool. Since that axis is exactly in the center of the ring, I can use that axis for my Circular Pattern, making the process **MUCH** easier and faster.
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/2db0929d-6e11-4346-a48f-19b6868ea3f1" /><img width="500" alt="image" src="https://github.com/user-attachments/assets/386dabd5-77ed-4991-af41-e2b07769ca46" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/2db0929d-6e11-4346-a48f-19b6868ea3f1" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/386dabd5-77ed-4991-af41-e2b07769ca46" />
 
 ### 2) Learn more Fusion tools!
 The best thing I can say to get better at CAD is to explore the software, really <br/>
