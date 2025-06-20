@@ -19,16 +19,22 @@ For example, while the truck bumper uses sharp edges and chamfers in places such
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/bdaedd31-52d1-4240-b709-7a50df6b2bc4" /> <br/>
 
 While fillets are typically used to only round down external edges, the fillet and chamfer command can actually do much more! For example, fillets can round out interior edges, such as the intersection of the bottom and wall of a box. <br/>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ac676772-4b97-4b78-8fb3-984398323ef5" /> <br/>
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/ac676772-4b97-4b78-8fb3-984398323ef5" /> <br/>
+
 Furthermore, the radius of the fillet can extend much further than the height of the wall/floor, allowing for fillets that are "more than 90 degrees" in a sense. <br/>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/504a717b-1322-4ec2-9233-e788d10615c8" /> <br/>
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/504a717b-1322-4ec2-9233-e788d10615c8" /> <br/>
 
 The combination of this technique, as well as some regular fillets are what allowed me to create the unique geometry of the eyes found on the center of my Highway project. The eyelids first started as a regular and boxy extrude, then was blended into the face of the center with an extended fillet, then rounded off by placing more fillets on the remaining sharp corners of the extrude. <br/>
+
 <img width="715" alt="example" src="https://github.com/user-attachments/assets/31aef77f-5f46-48ad-871c-3368543b9fee" /> <br/>
+
 The two fillets on the top of the rectangle led to the top being rounded and circular, while the remaining bottom extrude connected and smoothened everything out into a nice, curvy shape! <br/>
 
 **BUT BE WARNED!!!** The fillet/chamfer tool can also be the source of many headaches and pain! Fusion will typically not allow fillets if a certain part of an extrusion is too small or is destroyed when a fillet is applied! <br/>
-<img width="550" alt="I HATE YOU FUSION" src="https://github.com/user-attachments/assets/d2264d6b-1e47-4aa6-84cb-298177ba7b6e" />
+
+<img width="800" alt="I HATE YOU FUSION" src="https://github.com/user-attachments/assets/ec9c4ad6-3ae2-47a4-9473-905e1a8e40a3" />
 
 
 
