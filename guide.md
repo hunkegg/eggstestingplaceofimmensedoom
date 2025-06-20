@@ -9,6 +9,7 @@ This is less of a *guide* per se, and more so a collection of CAD techniques use
 <img width="180" alt="shrimp" src="https://github.com/user-attachments/assets/51bec500-ec75-4bdb-b8f4-4decb190dfcb" />
 
 | table o' contents |  |
+| --------- | --------- |
 | Method 1: | Fillets/Chamfer |
 | Method 2: | Edit Form |
 | Methdod 3: | Surface Tools |
