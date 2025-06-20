@@ -33,7 +33,9 @@ Furthermore, the radius of the fillet can extend much further than the height of
 
 The combination of this technique, as well as some regular fillets are what allowed me to create the unique geometry of the eyes found on the center of my Highway project. The eyelids first started as a regular and boxy extrude, then was blended into the face of the center with an extended fillet, then rounded off by placing more fillets on the remaining sharp corners of the extrude. <br/>
 
-<img width="500" alt="example" src="https://github.com/user-attachments/assets/31aef77f-5f46-48ad-871c-3368543b9fee" /> <br/>
+<img width="500" alt="example" src="https://github.com/user-attachments/assets/31aef77f-5f46-48ad-871c-3368543b9fee" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/2eecff2e-6543-4e92-b47c-f9304a1a9990" /> <br/>
+
 
 The two fillets on the top of the rectangle led to the top being rounded and circular, while the remaining bottom fillet connected and smoothened everything out into a nice, curvy shape! <br/>
 
