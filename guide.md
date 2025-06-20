@@ -30,7 +30,7 @@ The combination of this technique, as well as some regular fillets are what allo
 
 <img width="715" alt="example" src="https://github.com/user-attachments/assets/31aef77f-5f46-48ad-871c-3368543b9fee" /> <br/>
 
-The two fillets on the top of the rectangle led to the top being rounded and circular, while the remaining bottom extrude connected and smoothened everything out into a nice, curvy shape! <br/>
+The two fillets on the top of the rectangle led to the top being rounded and circular, while the remaining bottom fillet connected and smoothened everything out into a nice, curvy shape! <br/>
 
 **BUT BE WARNED!!!** The fillet/chamfer tool can also be the source of many headaches and pain! Fusion will typically not allow fillets if a certain part of an extrusion is too small or is destroyed when a fillet is applied! <br/>
 
