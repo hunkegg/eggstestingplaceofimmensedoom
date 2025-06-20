@@ -15,7 +15,7 @@ This is less of a *guide* per se, and more so a collection of CAD techniques use
 | Methdod 3: Surface Tools |
 | general tips! |
 
-## Method 1: Extrude + Fillet/Chamfer
+## Method 1: Fillet/Chamfer
 This is by far the simplest way to make something that looks nice. <br/>
 
 I used fillets extensively in my custom keycaps and eye, where I needed to replicate an organic-like shape. Sharp angles are typically not seen in nature, and are often used in more modern/futuristic or man-made designs, such as my toy truck bumper attachment I made for a school assignment. While both can be used interchangably in a simple design, such as making a macropad look a tiny bit better, knowing where to put fillets and chamfers can make a pretty noticable difference.<br/>
@@ -45,16 +45,22 @@ The two fillets on the top of the rectangle led to the top being rounded and cir
 This method is more obscure and difficult than using fillets/chamfers, but can also yeild great results if used correctly! <br/>
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/c7a33e14-e5c2-42d2-a0b4-2984179c0f98" />
 
-Create Form is a feature in Fusion 360 that allows users to create objects called "Forms". These forms are different than normal bodies, and are instead made up of faces, edges, and points, as seen in the graphic below. Out of all of these tools, users will most likely be using the **Edit Form** tool, which allows users to move and rotate individual vertices, edges, and faces to morph the form to their liking. <br/>
+**Create Form** is a feature in Fusion 360 that allows users to create objects called **"Forms"**. These forms are different than normal bodies, and are instead made up of faces, edges, and points, as seen in the graphic below. Out of all of these tools, users will most likely be using the **Edit Form** tool, which allows users to move and rotate individual vertices, edges, and faces to morph the form to their liking. <br/>
 
 <img width="1185" alt="image" src="https://github.com/user-attachments/assets/4571d296-b006-40bd-9855-f75ca7971054" /> <br/>
 
-Create form is best used on organic or irregular shapes that are often extremely hard to recreate with the standard extrude/loft/sweep of regular CAD. For example, I used Create Form to make a seat as part of a chair project for school, which allowed me to make a unique and comfortable shape for the seat. <br/>
+Create form is best used on **organic or irregular shapes** that are often extremely hard to recreate with the standard extrude/loft/sweep of regular CAD. For example, I used Create Form to make a seat as part of a chair project for school, which allowed me to make a unique and comfortable shape for the seat. <br/>
 
-The use of Create Form also allowed me to easily change the geometry of the seat with the Edit Form tool. While regular extrusions require going back to the sketch and changing dimensions, Forms can be directly morphed by dragging and rotating vertices and lines, making Forms much easier to work with when dealing with complex, irregular shapes. <br/>
-> btw for those curious, the seat was made out of a Form cube with two of the main faces removed, then was shifted around with Edit Form to resemble a chair. <br/>
+The use of Create Form also allowed me to *easily change the geometry* of the seat with the Edit Form tool. While regular extrusions require going back to the sketch and changing dimensions, Forms can be directly morphed by dragging and rotating vertices and lines, making Forms much easier to work with when dealing with complex, irregular shapes. <br/>
+> btw for those curious, the seat was made out of a Form cube with two of the main faces removed, then was morphed around with Edit Form to resemble a chair. <br/>
 
 <img width="324" alt="image" src="https://github.com/user-attachments/assets/450bf74c-bd9c-4815-8f00-c5a101d1ca41" /> <br/>
+
+**However, Edit Form isn't limited to just complex shapes!** You can easily get away with spamming simple shapes if your design needs it, such as in the case of my shrimp chef. <br/>
+In this example, I used Edit Form to repeatedly place spheres to create the eyes and chef hat! While this may seem inefficient at first, making each of these spheres individually with the Revolve command would take much, ***much*** longer! <br/>
+
+<img width="521" alt="image" src="https://github.com/user-attachments/assets/ab8456b0-264c-4411-8aa1-ea9a8e614cfa" />
+
 
 
 
