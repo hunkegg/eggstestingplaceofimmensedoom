@@ -35,7 +35,7 @@ Construct tools often feed or help with other tools, such as **Offset Plane** or
 ### 2) Learn more Fusion tools!
 While *Extrude* may get you by 80% of the time in CAD, learning other tools can help spice up your design! I ***strongly*** recommend getting familiar with the 4 tools mentioned below! <br/>
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/7056a717-a406-4fcc-861b-c495956f2f9e" /> <br/>
-| tool name |  |
+| tool name | purpose |
 | --------- | --------- |
 | extrude | the basic extrude; extends a sketch perpendicular to the sketch plane |
 | revolve | revolves a sketch around an axis; good for objects like vases or bottles |
@@ -45,10 +45,18 @@ While *Extrude* may get you by 80% of the time in CAD, learning other tools can 
 > an example of loft in action! I used **Offset Plane** to create the other sketch, then used loft to create the general shape of the keycap
 
 Here is a list of other Fusion tools I recommend learning:
-| tool name |  |  |
+| tool name | purpose | picture (zoom in!) |
 | --------- | --------- | --------- |
 | Project | used in sketches, projects a 3D object onto a sketch plane. ***VERY*** helpful in designing screw holes for PCBs or for making correct sizings for other parts like keycap stems. | <img width="200" alt="image" src="https://github.com/user-attachments/assets/9f5f5617-2b5f-449c-8aa9-b5ddc8406e4c" /> |
 | New Component | used to store components in CAD. helpful for organizing models with a million imported components like my keyboard. | <img width="200" alt="image" src="https://github.com/user-attachments/assets/29b4c461-d6ad-438b-8910-97c9c8b562b1" /> |
+| Appearance | used to add materials and colors to bodies in your model. helpful for visualizing the final result, as well as making the CAD pictures for submission look pretty :D | <img width="212" alt="image" src="https://github.com/user-attachments/assets/decc3739-2dc6-4afb-a61a-2c28bc0239c0" /> |
+| Canvas | used to add a picture on a surface as reference for modeling. **SUPER** helpful for designing decoration, such as the eyes on my keycaps/center, since you can just trace the canvas without issue. | <img width="285" alt="image" src="https://github.com/user-attachments/assets/5d97f813-9938-439f-a2b1-de7d4b46b8ec" /> |
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ee7dd8b4-ef46-4820-bf80-4b7b0c1c7fa6" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a1f6f433-caca-4818-b1c7-5641d2193268" />
+> examples of using the Canvas tool to design the decorative eyes!
+
+
+
 
 
 
