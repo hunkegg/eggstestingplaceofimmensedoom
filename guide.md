@@ -8,12 +8,12 @@ This is less of a *guide* per se, and more so a collection of CAD techniques use
 <img width="300" alt="toy truck bumper attachment" src="https://github.com/user-attachments/assets/c9f5d41c-9ce6-412b-83b6-dd5bdc61d720" />
 <img width="180" alt="shrimp" src="https://github.com/user-attachments/assets/51bec500-ec75-4bdb-b8f4-4decb190dfcb" />
 
-| table o' contents |  |
-| --------- | --------- |
-| Method 1: | Fillets/Chamfer |
-| Method 2: | Edit Form |
-| Methdod 3: | Surface Tools |
-| general tips! |  |
+| table o' contents |
+| --------- |
+| Method 1: Fillets/Chamfer |
+| Method 2: Edit Form |
+| Methdod 3: Surface Tools |
+| general tips! |
 
 ## Method 1: Extrude + Fillet/Chamfer
 This is by far the simplest way to make something that looks nice. <br/>
