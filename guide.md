@@ -11,6 +11,7 @@ This is less of a *guide* per se, and more so a collection of CAD techniques use
 
 ## Method 1: Extrude + Fillet/Chamfer
 This is by far the simplest way to make something that looks nice. <br/>
+
 I used fillets extensively in my custom keycaps and eye, where I needed to replicate an organic-like shape. Sharp angles are typically not seen in nature, and are often used in more modern/futuristic or man-made designs, such as my toy truck bumper attachment I made for a school assignment. While both can be used interchangably in a simple design, such as making a macropad look a tiny bit better, knowing where to put fillets and chamfers can make a pretty noticable difference.<br/>
 
 For example, while the truck bumper uses sharp edges and chamfers in places such as the teeth and shaker scoop (that engine thing on the hood) that signify something man-made and rugged, the truck also uses rounded fillets on the sides of the car to create a softer feeling, as well as fillets on the bulbs to make the bulbs seem "older" or antique. While a regular, flat circular cut inwards would have sufficed for the bulbs, the addition of the bulbs creates more of that "scrappy" feel to the design. <br/>
