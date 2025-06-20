@@ -43,11 +43,11 @@ The two fillets on the top of the rectangle led to the top being rounded and cir
 
 ## Method 2: Create Form
 This method is more obscure and difficult than using fillets/chamfers, but can also yeild great results if used correctly! <br/>
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/c7a33e14-e5c2-42d2-a0b4-2984179c0f98" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/c7a33e14-e5c2-42d2-a0b4-2984179c0f98" />
 
-**Create Form** is a feature in Fusion 360 that allows users to create objects called **"Forms"**. These forms are different than normal bodies, and are instead made up of faces, edges, and points, as seen in the graphic below. Out of all of these tools, users will most likely be using the **Edit Form** tool, which allows users to move and rotate individual vertices, edges, and faces to morph the form to their liking. <br/>
+**Create Form** is a feature in Fusion 360 that allows users to create objects called **"Forms"**. These forms are different than normal bodies, and are instead made up of faces, edges, and points, as seen in the graphic below. Create Form offers a new set of tool, but users will most likely be using the **Edit Form** tool, which allows users to move and rotate individual vertices, edges, and faces to morph the form to their liking. <br/>
 
-<img width="1185" alt="image" src="https://github.com/user-attachments/assets/4571d296-b006-40bd-9855-f75ca7971054" /> <br/>
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/4571d296-b006-40bd-9855-f75ca7971054" /> <br/>
 
 Create form is best used on **organic or irregular shapes** that are often extremely hard to recreate with the standard extrude/loft/sweep of regular CAD. For example, I used Create Form to make a seat as part of a chair project for school, which allowed me to make a unique and comfortable shape for the seat. <br/>
 
