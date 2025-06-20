@@ -6,7 +6,7 @@
 This is less of a *guide* per se, and more so a collection of CAD techniques used to make the decorative aspects of my previous and Highway projects. <br/>
 <img width="300" alt="biblically accurate macropad" src="https://github.com/user-attachments/assets/cb085ad5-4f34-4af0-8f13-1538632a181c" />
 <img width="300" alt="toy truck bumper attachment" src="https://github.com/user-attachments/assets/c9f5d41c-9ce6-412b-83b6-dd5bdc61d720" />
-<img width="394" alt="shrimp" src="https://github.com/user-attachments/assets/51bec500-ec75-4bdb-b8f4-4decb190dfcb" />
+<img width="100" alt="shrimp" src="https://github.com/user-attachments/assets/51bec500-ec75-4bdb-b8f4-4decb190dfcb" />
 
 
 ## Method 1: Extrude + Fillet/Chamfer
