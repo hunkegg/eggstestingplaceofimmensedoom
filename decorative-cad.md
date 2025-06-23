@@ -24,15 +24,14 @@ The Contstruct Tools in Fusion are a set of tools that allow the user to create 
 For example, in my Highway project, I could've copy and pasted a keyswitch section 8 times and moved them around to form a ring, but I instead used the Construct tool **"Axis Perpendicular to a Face at Point"** in combination with a sketch to create an axis of rotation to use a Circular Pattern. (i know that sounds like jargon but i'll try my best to break it down) <br/>
 
 Essentially, the Circular Pattern tool allows me to copy a part in Fusion around in a circle, and requires an axis to rotate around. First, I drew a sketch on the part to find the "center" of the ring, then created an axis through that point with the Construct tool. Since that axis is exactly in the center of the ring, I can use that axis for my Circular Pattern, making the process **MUCH** easier and faster.
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/2db0929d-6e11-4346-a48f-19b6868ea3f1" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/386dabd5-77ed-4991-af41-e2b07769ca46" /> <br/>
+![axis tool example](https://github.com/user-attachments/assets/91520ea6-e8fa-424f-ad18-5cee93b7e016)
 
 Construct tools often feed or help with other tools, such as **Offset Plane** or **Plane at Angle** helping with *custom angles in sketches*, or the **Axis** tools helping with Pattern-type tools like *Rectangular/Circular Pattern* as mentioned above. I ***strongly*** recommend learning these if you want to improve your modeling! <br/>
 > offset plane is my favorite btw, super good for the loft tool!
 
 ### 2) Learn more Fusion tools!
 While *Extrude* may get you by 80% of the time in CAD, learning other tools can help spice up your design! I ***strongly*** recommend getting familiar with the 4 tools mentioned below! <br/>
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/7056a717-a406-4fcc-861b-c495956f2f9e" /> <br/>
+![the fantastic fusion four](https://github.com/user-attachments/assets/0cda8f34-e9cb-4c1a-b3e2-ce0fe9ef4ddf)
 | tool name | purpose |
 
 | --------- | --------- |
@@ -40,19 +39,19 @@ While *Extrude* may get you by 80% of the time in CAD, learning other tools can 
 | revolve | revolves a sketch around an axis; good for objects like vases or bottles |
 | sweep | extends a sketch along a custom path (often another sketch perpendicular to the other sketch plane); good for pipes or tubes |
 | loft | connects the edges between two sketches; good for adapters or in my case, keycaps! | <br/>
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ac7770c9-49d8-4afa-98f3-85479e84b25d" /> <br/>
+![loft example on keycap](https://github.com/user-attachments/assets/5e933a2d-cbf5-46ac-bc67-debc4148f7db")
 > an example of loft in action! I used **Offset Plane** to create the other sketch, then used loft to create the general shape of the keycap
 
 Here is a list of other Fusion tools I recommend learning:
-| tool name | purpose | picture (zoom in!) |
+| tool name | purpose | location |
 | --------- | --------- | --------- |
-| Project | used in sketches, projects a 3D object onto a sketch plane. ***VERY*** helpful in designing screw holes for PCBs or for making correct sizings for other parts like keycap stems. | <img width="200" alt="image" src="https://github.com/user-attachments/assets/9f5f5617-2b5f-449c-8aa9-b5ddc8406e4c" /> |
-| New Component | used to store components in CAD. helpful for organizing models with a million imported components like my keyboard. | <img width="200" alt="image" src="https://github.com/user-attachments/assets/29b4c461-d6ad-438b-8910-97c9c8b562b1" /> |
-| Appearance | used to add materials and colors to bodies in your model. helpful for visualizing the final result, as well as making the CAD pictures for submission look pretty :D | <img width="212" alt="image" src="https://github.com/user-attachments/assets/decc3739-2dc6-4afb-a61a-2c28bc0239c0" /> |
-| Constraints | used in sketches, constrains certain elements like lines or points into a "relationship" (equal length (equal), at the same point (coincident), perfectly horizontal/vertical, etc.). **Very** helpful for designing geometric or precise sketches like the mount and casing of a PCB. | <img width="183" alt="image" src="https://github.com/user-attachments/assets/e6b2eebf-0734-4add-bd32-063404720a5c" /> |
-| Canvas | used to add a picture on a surface as reference for modeling. ***VERY*** helpful for designing decoration, such as the eyes on my keycaps/center, since you can just trace the canvas without issue. | <img width="285" alt="image" src="https://github.com/user-attachments/assets/5d97f813-9938-439f-a2b1-de7d4b46b8ec" /> |
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ee7dd8b4-ef46-4820-bf80-4b7b0c1c7fa6" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/a1f6f433-caca-4818-b1c7-5641d2193268" />
+| Project | used in sketches, projects a 3D object onto a sketch plane. ***VERY*** helpful in designing screw holes for PCBs or for making correct sizings for other parts like keycap stems. | Sketch Tab (shows up when making a sketch) > Create Tools > Project/Include > Project (keybind should be P by default) |
+| New Component | used to store components in CAD. helpful for organizing models with a million imported components like my keyboard. | Solid Tab > Assemble > New Component |
+| Appearance | used to add materials and colors to bodies in your model. helpful for visualizing the final result, as well as making the CAD pictures for submission look pretty :D | Solid Tab > Modify > Appearance (keybind should be A by default) |
+| Constraints | used in sketches, constrains certain elements like lines or points into a "relationship" (equal length (equal), at the same point (coincident), perfectly horizontal/vertical, etc.). **Very** helpful for designing geometric or precise sketches like the mount and casing of a PCB. | Sketch Tab > Constraints (symbols with red lines!) |
+| Canvas | used to add a picture on a surface as reference for modeling. ***VERY*** helpful for designing decoration, such as the eyes on my keycaps/center, since you can just trace the canvas without issue. | Solid Tab > Insert > Canvas |
+> note: "Tab" refers to the sections right above the tool icons (Solid, Surface, Mesh, Sheet Metal, Plastic, Utilities, Manage)
+![canvas tool example](https://github.com/user-attachments/assets/e84e7454-25c5-4d56-83fb-854b5efe058d)
 > examples of using the Canvas tool to design the decorative eyes!
 
 ## Method 1: Fillet/Chamfer
