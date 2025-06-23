@@ -2,9 +2,9 @@
 
 *Written by @egg_splats on slack* <br/>
 [check out my project!!!](https://github.com/hunkegg/biblicallyaccuratekeyboard) <br/>
+![banner](https://github.com/user-attachments/assets/e4c72d4c-35c1-4ad9-b5a1-2184094e0694)
 
 This is less of a *guide* per se, and more so a collection of CAD techniques used to make the decorative aspects of my previous and Highway projects. <br/>
-![banner thing]("https://github.com/user-attachments/assets/18ee3743-db91-422d-a1de-1228e32fb820")
 > this guide will sadly only go over Fusion, but onshape usually has lots of features similar to those mentioned in this guide!
 
 | table o' contents |
