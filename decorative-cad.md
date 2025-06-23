@@ -2,11 +2,11 @@
 
 *Written by @egg_splats on slack* <br/>
 [check out my project!!!](https://github.com/hunkegg/biblicallyaccuratekeyboard) <br/>
-![banner](https://github.com/user-attachments/assets/e4c72d4c-35c1-4ad9-b5a1-2184094e0694)
 
 This is less of a *guide* per se, and more so a collection of CAD techniques used to make the decorative aspects of my previous and Highway projects. <br/>
 > this guide will sadly only go over Fusion, but onshape usually has lots of features similar to those mentioned in this guide!
 
+![Screenshot 2025-06-23 at 2 50 52 PM](https://github.com/user-attachments/assets/f034a740-cbd6-499f-85b9-70ae73c5822b)
 | table o' contents |
 | --------- |
 | general tips! |
@@ -34,6 +34,7 @@ Construct tools often feed or help with other tools, such as **Offset Plane** or
 While *Extrude* may get you by 80% of the time in CAD, learning other tools can help spice up your design! I ***strongly*** recommend getting familiar with the 4 tools mentioned below! <br/>
 <img width="200" alt="image" src="https://github.com/user-attachments/assets/7056a717-a406-4fcc-861b-c495956f2f9e" /> <br/>
 | tool name | purpose |
+
 | --------- | --------- |
 | extrude | the basic extrude; extends a sketch perpendicular to the sketch plane |
 | revolve | revolves a sketch around an axis; good for objects like vases or bottles |
