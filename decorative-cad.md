@@ -4,10 +4,7 @@
 [check out my project!!!](https://github.com/hunkegg/biblicallyaccuratekeyboard) <br/>
 
 This is less of a *guide* per se, and more so a collection of CAD techniques used to make the decorative aspects of my previous and Highway projects. <br/>
-![blah](https://github.com/user-attachments/assets/cb085ad5-4f34-4af0-8f13-1538632a181c)
-<img width="300" alt="biblically accurate macropad" src="https://github.com/user-attachments/assets/cb085ad5-4f34-4af0-8f13-1538632a181c" />
-<img width="300" alt="toy truck bumper attachment" src="https://github.com/user-attachments/assets/c9f5d41c-9ce6-412b-83b6-dd5bdc61d720" />
-<img width="180" alt="shrimp" src="https://github.com/user-attachments/assets/51bec500-ec75-4bdb-b8f4-4decb190dfcb" /> <br/>
+![banner thing]("https://github.com/user-attachments/assets/18ee3743-db91-422d-a1de-1228e32fb820")
 > this guide will sadly only go over Fusion, but onshape usually has lots of features similar to those mentioned in this guide!
 
 | table o' contents |
