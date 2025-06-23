@@ -4,9 +4,9 @@
 [check out my project!!!](https://github.com/hunkegg/biblicallyaccuratekeyboard) <br/>
 
 This is less of a *guide* per se, and more so a collection of CAD techniques used to make the decorative aspects of my previous and Highway projects. <br/>
+![Screenshot 2025-06-23 at 2 50 52 PM](https://github.com/user-attachments/assets/3ecc2969-7dde-441b-b96a-2384d495cf95)
 > this guide will sadly only go over Fusion, but onshape usually has lots of features similar to those mentioned in this guide!
 
-![Screenshot 2025-06-23 at 2 50 52 PM](https://github.com/user-attachments/assets/f034a740-cbd6-499f-85b9-70ae73c5822b)
 | table o' contents |
 | --------- |
 | general tips! |
@@ -19,7 +19,7 @@ I mainly want to get these out of the way first, since they can be applied to ne
 
 ### 1) Construct tools are GOATED
 The Contstruct Tools in Fusion are a set of tools that allow the user to create objects to base sketches or commands off of. While they may seem useless at first, they can be extremely helpful in making more custom and cooler designs! <br/>
-<img width="290" alt="image" src="https://github.com/user-attachments/assets/c8852a5b-5e39-4930-92f8-8ba69e4039d9" /> <br/>
+![construct tool list](https://github.com/user-attachments/assets/5f47445c-deca-4dc2-beda-61772ab794d3)
 
 For example, in my Highway project, I could've copy and pasted a keyswitch section 8 times and moved them around to form a ring, but I instead used the Construct tool **"Axis Perpendicular to a Face at Point"** in combination with a sketch to create an axis of rotation to use a Circular Pattern. (i know that sounds like jargon but i'll try my best to break it down) <br/>
 
