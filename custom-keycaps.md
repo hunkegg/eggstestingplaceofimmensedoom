@@ -117,3 +117,31 @@ Direction doesn't matter, but be aware of the keycap's thickness if you cut into
 
 ![:3](https://github.com/user-attachments/assets/695c20a5-bae4-4a57-8d64-c558f047b044)
 ![examples!](https://github.com/user-attachments/assets/fba91505-9aaf-4bc1-8a54-1759d02e59df)
+
+Additionally, you can go a step further and draw on the keycap! By using the **Canvas** tool, you can make a reference image to trace over, such as in the example of the eyes on my keycaps for the biblically accurate keyboard!
+
+![eyecap](https://github.com/user-attachments/assets/502e1607-18e3-4c9f-b2ed-890877259ac8)
+
+To add a canvas, go to Insert and click on the photograph icon named **Canvas**. After that, you can trace over it with any tool in the Sketch menu. <br/>
+The most common tool to trace with is with the **Fit Point Spline** tool, which automatically curve a line depending on the points specified. Other tools like lines, polygons, and circles can also be used, but typically depends on the design you're aiming for.
+
+![splines](https://github.com/user-attachments/assets/57ecd68b-97ac-4dbf-aba6-b88dce6e450a)
+
+**but THAT'S STILL BORING!!** What if you want a custom shape like the keycaps on my Engipad? 
+
+![engipad](https://github.com/user-attachments/assets/948fd1c4-0fa8-4b9c-89f3-f9513dedac00)
+
+To change the shape of the keycap, you can go into **Fusion's timeline**, a bar on the bottom of the screen that shows the history of your model. From here, you can change many things about the keycap! <br/>
+* Do you want a differently sized base? Maybe you want chamfers? Go into the first sketch and change the shape and update the loft (or any features that break/need to be updated)!
+* Do you want a taller/shorter keycap? Go into the **Offset Plane** and adjust the height! make it 1,000,000 millimeters tall i dont care
+* Do you want a differently shaped top? Go into the second sketch set on the offset plane and change it!
+![shape](https://github.com/user-attachments/assets/937bc0b8-b5d6-4615-91e1-342124b70e01)
+![tall boi](https://github.com/user-attachments/assets/4d123974-8d30-4d8e-8590-74d775974717)
+Additionally, if you already have a shape in mind, you can **preemptively** design the shape while making the keycap, leading to less errors and more control over the design, which is what I did when making my custom octogon-like keycaps for the Engiboard! <br/>
+
+*You can do anything with custom keycaps!*
+* Do you want a ***whole ass cooking wok*** on your keycap? Model a wok separately, import it into the design, position it, and combine the two bodies together!
+![i took the wooooook](https://github.com/user-attachments/assets/fa53a4ec-1073-4249-b047-45fed80f3219)
+* Do you want a typewriter-styled keycap with an A on it? Make a circular base, offset the 2nd profile by 6mm, make another circle, loft it, then add your text in with a border!
+![typewriter](https://github.com/user-attachments/assets/6dadae66-03cb-4fe6-8689-5ebd59a9e6d2)
+
