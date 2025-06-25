@@ -24,25 +24,27 @@ Next, draw a rectangle with **18mm x 18mm** dimensions. You can do this while dr
 
 We will also be adding a fillet to the corners of this profile, since a pointy square honestly looks *pretty ugly* <br/>
 To do this, click on the **Fillet** tool, then click on two touching sides of the square to make a rounded corner, also called a fillet! I used 2mm as the radius, but the choice is up to you! <br/>
+
 ![fillets](https://github.com/user-attachments/assets/a2673334-2ae0-403b-9f2c-3880e932e679)
 
-After you have your base, click "Finish Sketch"! Once we do this, we should have a 18mm x 18mm square sketch. <br/>
-![square sketch](https://github.com/user-attachments/assets/3c487f65-6007-4295-9657-34a3f2780955)
+After you have your base, click "Finish Sketch"! Once we do this, we should have a 18mm x 18mm square sketch with rounded corners. <br/>
+
+![rounded rectangle sketch](https://github.com/user-attachments/assets/ae495a99-a563-4c62-a017-38c8bf9e78a7)
 
 We will be using the **Loft** tool to create the general shape of the keycap. This tool essentially connects two sketch profiles that are on different planes by making a smooth transition between the two profiles. <br/>
 ![lofty lofty](https://github.com/user-attachments/assets/fb66b0c1-bf00-41c3-b4c7-2ee5e34f3634)
-When you look at a regular keycap, you'll typically see the keycap *taper*, or get smaller near the top. To mimic this shape, we will be using the **Loft** tool alongside a smaller sketch profile to create the shape of the keycap. <br/>
+When you look at a regular keycap, you'll typically see the keycap *taper*, or get smaller, near the top. To mimic this shape, we will be using the **Loft** tool alongside a smaller sketch profile to create the shape of the keycap. <br/>
 
 However, to first do this, we need a new plane to make our sketch on! This can be easily done by using the **Offset Plane** Construction tool! As the name implies, this tool makes a new plane to draw sketches on that is *offset*, or extended from, from the original plane. <br/>
 
 To make our new and shiny plane, select the **Offset Plane** tool under Construction and click on the square sketch as our plane. Then, drag the arrow up and down to adjust the height of the plane. <br/>
 We will be using 10mm for now! Normal MX keycaps around ~9.75mm, but I'm just rounding here. <br/>
-![offset](https://github.com/user-attachments/assets/3d072a74-9708-45f9-8363-e77182626c9f)
+![offset plane](https://github.com/user-attachments/assets/2f4a3711-ddf7-431b-8fe9-30a79e9636ff)
 Once we have our plane, select "OK". <br/>
 
 Now that we have our plane, we can make our second sketch required for the Loft! Select the Sketch tool and the newly created plane to create a new sketch on the plane. <br/>
 From here, there are many ways to approach making the top profile. Due to the simplicity of the model, we can get away with using a regular old rectangle or circle as our top profile. <br/>
-> (I'll get into my own preferred method involving my goat, the project tool, later in the guide :3) <br/>
+> (I'll get into my own preferred method involving my goat later in the guide :3) <br/>
 
 To make a top profile, draw a circle or rectangle on the sketch plane. The position can vary depending on your preference, but for the sake of the guide, we will be centering the shape on the origin. Set the shape to 15mm on each side or in diameter and click "Finish Sketch".
 ![2nd profile](https://github.com/user-attachments/assets/b46cbd4f-90b1-4b50-a4b3-c26eddb22465)
