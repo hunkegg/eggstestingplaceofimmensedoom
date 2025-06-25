@@ -19,8 +19,12 @@ Next, you're going to make the bottom face of your keycap. <br/>
 Most MX-compatable keycaps use bottom dimensions no bigger than **18mm x 18mm**, so we will be using that as well! Go to the "Create" section of the toolbar and select the Rectangle tool. You can use any of the three rectangle tools, but I personally prefer **Center Rectangle** to keep things centered around the origin. <br/>
 
 Next, draw a rectangle with **18mm x 18mm** dimensions. You can do this while drawing the rectangle by typing in the numbers and using Tab to switch between side dimensions, or use the **Dimensions** tool by clicking D, then clicking on the sides of the drawn rectangle.
+
 ![rectangle](https://github.com/user-attachments/assets/15b70d22-7618-4de3-a63d-14bf2951b6fc)
-(You can also add fillets/chamfers here now, but I'm saving that part for last!) <br/>
+
+We will also be adding a fillet to the corners of this profile, since a pointy square honestly looks *pretty ugly* <br/>
+To do this, click on the **Fillet** tool, then click on two touching sides of the square to make a rounded corner, also called a fillet! I used 2mm as the radius, but the choice is up to you! <br/>
+![fillets](https://github.com/user-attachments/assets/a2673334-2ae0-403b-9f2c-3880e932e679)
 
 After you have your base, click "Finish Sketch"! Once we do this, we should have a 18mm x 18mm square sketch. <br/>
 ![square sketch](https://github.com/user-attachments/assets/3c487f65-6007-4295-9657-34a3f2780955)
