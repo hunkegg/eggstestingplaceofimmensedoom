@@ -15,7 +15,9 @@ Custom keycaps can also help with making a **certain theme** more cohesive and "
 First, open up your CAD software of choice and create a sketch on the bottom plane. <br/>
 
 Next, you're going to make the bottom face of your keycap. <br/>
+
 Most MX-compatable keycaps use bottom dimensions no bigger than **18mm x 18mm**, so we will be using that as well! Go to the "Create" section of the toolbar and select the Rectangle tool. You can use any of the three rectangle tools, but I personally prefer **Center Rectangle** to keep things centered around the origin. <br/>
+
 Next, draw a rectangle with **18mm x 18mm** dimensions. You can do this while drawing the rectangle by typing in the numbers and using Tab to switch between side dimensions, or use the **Dimensions** tool by clicking D, then clicking on the sides of the drawn rectangle.
 ![rectangle](https://github.com/user-attachments/assets/15b70d22-7618-4de3-a63d-14bf2951b6fc)
 (You can also add fillets/chamfers here now, but I'm saving that part for last!) <br/>
@@ -28,6 +30,7 @@ We will be using the **Loft** tool to create the general shape of the keycap. Th
 When you look at a regular keycap, you'll typically see the keycap *taper*, or get smaller near the top. To mimic this shape, we will be using the **Loft** tool alongside a smaller sketch profile to create the shape of the keycap. <br/>
 
 However, to first do this, we need a new plane to make our sketch on! This can be easily done by using the **Offset Plane** Construction tool! As the name implies, this tool makes a new plane to draw sketches on that is *offset*, or extended from, from the original plane. <br/>
+
 To make our new and shiny plane, select the **Offset Plane** tool under Construction and click on the square sketch as our plane. Then, drag the arrow up and down to adjust the height of the plane. <br/>
 We will be using 10mm for now! Normal MX keycaps around ~9.75mm, but I'm just rounding here. <br/>
 ![offset](https://github.com/user-attachments/assets/3d072a74-9708-45f9-8363-e77182626c9f)
