@@ -94,8 +94,12 @@ Once you have that, finish the sketch and extrude the circle (EXCLUDING THE RECT
 
 ![extrude](https://github.com/user-attachments/assets/c8b52d8c-f7ee-4577-9730-00aecc98640d)
 
+Once you finish that extrusion, your switch should *nearly* be done! <br/>
+Nearly...
 
+## Customization
+You have a nice looking custom keycap, but to make it *truly* custom, you have to add some flair to it! This can range from adding some fillets and text to the top, to adding completely new models to the keycap or changing the entire shape of it! <br/>
 
+For example, our current keycap has a pretty sharp edge on the top, which may look ugly to some people. To fix this, we can add a fillet or chamfer by simply clicking on the edge or face and using the **Fillet/Chamfer** tools, as seen below. <br/>
 
-
-
+![roundy](https://github.com/user-attachments/assets/1c9b1532-09e5-44dd-ac6d-be069f9e5a22)
