@@ -114,3 +114,4 @@ To add text, create a new sketch on the top of the keycap and use the **Text** t
 Direction doesn't matter, but be aware of the keycap's thickness if you cut into the top like I did below. Go too deep into the keycap, and suddenly you're cutting into the stem and ruining the model!
 
 ![:3](https://github.com/user-attachments/assets/695c20a5-bae4-4a57-8d64-c558f047b044)
+![examples!](https://github.com/user-attachments/assets/fba91505-9aaf-4bc1-8a54-1759d02e59df)
