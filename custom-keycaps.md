@@ -42,3 +42,13 @@ From here, there are many ways to approach making the top profile. Due to the si
 
 To make a top profile, draw a circle or rectangle on the sketch plane. The position can vary depending on your preference, but for the sake of the guide, we will be centering the shape on the origin. Set the shape to 15mm on each side or in diameter and click "Finish Sketch".
 ![2nd profile](https://github.com/user-attachments/assets/b46cbd4f-90b1-4b50-a4b3-c26eddb22465)
+
+Once we do that, we should have two sketch different sketch profiles that look like this:
+![ready to loft sir](https://github.com/user-attachments/assets/1c6af4fd-57a5-438b-8fe6-06c63d399c60)
+
+Now, we can use Loft to make our keycap! Select **Loft** under Create, then click on the two sketch profiles. Once we do that, click "OK" to create the body.
+![lofty now](https://github.com/user-attachments/assets/b00a443c-d296-4bee-b6f1-a58e3d485c0c)
+
+We now have the general shape of our keycap, but currently, it's COMPLETELY solid. <br/>
+
+However, we can fix that by using the **Shell** Command. 
