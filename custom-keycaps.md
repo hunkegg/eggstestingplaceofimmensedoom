@@ -70,7 +70,7 @@ However, we can fix that by using the **Shell** Command! This command essentiall
 
 This should result in our keycap having a large opening in the bottom! <br/>
 
-We now have an opening, but if we were to print this out and slap it onto a switch, it wouldn't stay on for long...
+We now have an opening, but if we were to print this out and slap it onto a switch, it wouldn't stay on for long... <br/>
 This is because there is no feature to hold the switches' *stem*, or the plus-shaped bit poking out that is pressed! <br/>
 
 To do this, we can make a new sketch in the inside of the keycap! Select the bottom side of the hollowed-out keycap as shown, and create a sketch.
