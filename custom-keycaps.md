@@ -131,7 +131,7 @@ The most common tool to trace with is with the **Fit Point Spline** tool, which 
 
 ![engipad](https://github.com/user-attachments/assets/948fd1c4-0fa8-4b9c-89f3-f9513dedac00)
 
-To change the shape of the keycap, you can go into **Fusion's timeline**, a bar on the bottom of the screen that shows the history of your model. From here, you can change many things about the keycap! <br/>
+To change the shape of the keycap, you can go into **Fusion's timeline**, a bar on the bottom of the screen containing command icons like Extrude or Fillet that shows the history of your model. From here, you can change many things about the keycap! <br/>
 * Do you want a differently sized base? Maybe you want chamfers? Go into the first sketch and change the shape and update the loft (or any features that break/need to be updated)!
 * Do you want a taller/shorter keycap? Go into the **Offset Plane** and adjust the height! make it 1,000,000 millimeters tall i dont care
 * Do you want a differently shaped top? Go into the second sketch set on the offset plane and change it!
