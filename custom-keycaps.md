@@ -139,6 +139,8 @@ To change the shape of the keycap, you can go into **Fusion's timeline**, a bar 
 ![tall boi](https://github.com/user-attachments/assets/4d123974-8d30-4d8e-8590-74d775974717)
 Additionally, if you already have a shape in mind, you can **preemptively** design the shape while making the keycap, leading to less errors and more control over the design, which is what I did when making my custom octogon-like keycaps for the Engiboard! <br/>
 
+*You can do anything with custom keycaps!* <br/>
+
 * Do you want a ***whole ass cooking wok*** on your keycap? Model a wok separately, import it into the design, position it, and combine the two bodies together! <br/>
 
 ![i took the wooooook](https://github.com/user-attachments/assets/fa53a4ec-1073-4249-b047-45fed80f3219)
@@ -146,7 +148,4 @@ Additionally, if you already have a shape in mind, you can **preemptively** desi
 * Do you want a typewriter-styled keycap with an A on it? Make a circular base, offset the 2nd profile by 6mm, make another circle, loft it, then add your text in with a border! <br/>
 
 ![typewriter](https://github.com/user-attachments/assets/454c56a7-4841-484c-88c5-63837e0d097b)
-
-*You can do anything with custom keycaps!*
-
 
