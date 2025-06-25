@@ -94,12 +94,23 @@ Once you have that, finish the sketch and extrude the circle (EXCLUDING THE RECT
 
 ![extrude](https://github.com/user-attachments/assets/c8b52d8c-f7ee-4577-9730-00aecc98640d)
 
-Once you finish that extrusion, your switch should *nearly* be done! <br/>
-Nearly...
+Once you finish that extrusion, your switch should *nearly* be done! Go ahead and gawk in amazement! <br/>
+
+![wow finished!!](https://github.com/user-attachments/assets/4a40f7b4-f7ac-4386-b3e2-f391f7a77051)
+
+*But this is only the easy part...*
 
 ## Customization
-You have a nice looking custom keycap, but to make it *truly* custom, you have to add some flair to it! This can range from adding some fillets and text to the top, to adding completely new models to the keycap or changing the entire shape of it! <br/>
+You have a nice looking custom keycap, but to make it *truly* custom and ***✩ polished ✩***, you have to add some flair to it! This can range from adding some fillets and text to the top, to adding completely new models to the keycap or changing the entire shape of it! <br/>
 
 For example, our current keycap has a pretty sharp edge on the top, which may look ugly to some people. To fix this, we can add a fillet or chamfer by simply clicking on the edge or face and using the **Fillet/Chamfer** tools, as seen below. <br/>
 
 ![roundy](https://github.com/user-attachments/assets/1c9b1532-09e5-44dd-ac6d-be069f9e5a22)
+
+Although this is nice, the keycap is still pretty bland... What's the use of a *custom* keycap if there's *no* text, art, or anything special? <br/>
+...So let's do that!
+
+To add text, create a new sketch on the top of the keycap and use the **Text** tool under the Create menu to add text to the sketch, making sure it fits onto the keycap! Once you have that, select the blue text and Extrude it! <br/>
+Direction doesn't matter, but be aware of the keycap's thickness if you cut into the top like I did below. Go too deep into the keycap, and suddenly you're cutting into the stem and ruining the model!
+
+![:3](https://github.com/user-attachments/assets/695c20a5-bae4-4a57-8d64-c558f047b044)
