@@ -109,7 +109,8 @@ For example, our current keycap has a pretty sharp edge on the top, which may lo
 ![roundy](https://github.com/user-attachments/assets/1c9b1532-09e5-44dd-ac6d-be069f9e5a22)
 
 Although this is nice, the keycap is still pretty bland... What's the use of a *custom* keycap if there's *no* text, art, or anything special? <br/>
-...So let's do that!
+
+...So let's do that! <br/>
 
 To add text, create a new sketch on the top of the keycap and use the **Text** tool under the Create menu to add text to the sketch, making sure it fits onto the keycap! Once you have that, select the blue text and Extrude it! <br/>
 Direction doesn't matter, but be aware of the keycap's thickness if you cut into the top like I did below. Go too deep into the keycap, and suddenly you're cutting into the stem and ruining the model!
