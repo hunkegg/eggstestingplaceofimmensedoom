@@ -7,7 +7,7 @@ This short guide will go over my process of making **custom keycaps** for my Hig
 > FYI, this guide will be using Fusion 360! 
 
 ## ...but why?
-Custom keycaps are a nice way to add some personal flair and  *⋆｡°✩ polish ✩｡°⋆*  to your keyboard projects aside from the case and PCB. They can be placed anywhere, such as the escape key on a 75% keyboard or on a macro-binded key on a deskside macropad. <br/>
+Custom keycaps are a nice way to add some personal flair and   *⋆｡°✩ polish ✩｡°⋆*   to your keyboard projects aside from the case and PCB. They can be placed anywhere, such as the escape key on a 75% keyboard or on a macro-binded key on a deskside macropad. <br/>
 Custom keycaps can also help with making a **certain theme** more cohesive and "complete", such as the custom keycaps with eyes on my biblically accurate keyboard!
 ![theming is everything](https://github.com/user-attachments/assets/8b4e52b9-a6bb-40e6-8831-d9e603d32bfa)
 
