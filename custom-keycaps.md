@@ -4,7 +4,7 @@ Try making your own custom keycaps! <br/>
 This short guide will go over my process of making **custom keycaps** for my Highway projects (as well as going over some handy CAD commands)
 
 > guide by @egg_splats! check out my other keyboard-related projects, [the Biblically Accurate Keyboard](https://github.com/hunkegg/biblicallyaccuratekeyboard) and [the Engipad](https://github.com/hunkegg/engipad)
-> FYI, this guide will be using Fusion 360! 
+> FYI, this guide will be using Fusion 360! this guide will also be modeling keycaps for standard MX switches (no low-profile switches, but feel free to take notes/inspiration!)
 
 ## ...but why?
 Custom keycaps are a nice way to add some personal flair and ***✩ polish ✩*** to your keyboard projects aside from the case and PCB. They can be placed anywhere, such as the escape key on a 75% keyboard or on a macro-binded key on a deskside macropad. <br/>
@@ -40,7 +40,7 @@ When you look at a regular keycap, you'll typically see the keycap *taper*, or g
 However, to first do this, we need a new plane to make our sketch on! This can be easily done by using the **Offset Plane** Construction tool! As the name implies, this tool makes a new plane to draw sketches on that is *offset*, or extended from, from the original plane. <br/>
 
 To make our new and shiny plane, select the **Offset Plane** tool under Construction and click on the square sketch as our plane. Then, drag the arrow up and down to adjust the height of the plane. <br/>
-We will be using 10mm for now! Normal MX keycaps around ~9.75mm, but I'm just rounding here. <br/>
+We will be using 10mm for now! Keycap height varies, but most non-low profile caps are around the ~9-10mm range. <br/>
 
 ![offset plane](https://github.com/user-attachments/assets/2f4a3711-ddf7-431b-8fe9-30a79e9636ff)
 
@@ -62,5 +62,40 @@ Now, we can use Loft to make our keycap! Select **Loft** under Create, then clic
 
 ![we have loft off we have a loft off](https://github.com/user-attachments/assets/8591a956-f56d-4f3a-b5c9-31f0e061b962)
 
-We now have the general shape of our keycap, but currently, it's COMPLETELY solid... <br/>
-However, we can fix that by using the **Shell** Command. 
+We now have the general shape of our keycap, but currently it's COMPLETELY solid <br/>
+
+However, we can fix that by using the **Shell** Command! This command essentially hollows out a solid with an opening, using a specified wall thickness and a selected face as the opening. Almost all keycaps have an opening on the bottom, so for the Shell command, we will be selecting the bottom face of the solid with the wall thickness set to 1mm.
+
+![shellcommand](https://github.com/user-attachments/assets/e1961256-24fe-443d-b0f1-73947f22afe6)
+
+This should result in our keycap having a large opening in the bottom! <br/>
+
+We now have an opening, but if we were to print this out and slap it onto a switch, it wouldn't stay on for long...
+This is because there is no feature to hold the switches' *stem*, or the plus-shaped bit poking out that is pressed! <br/>
+
+To do this, we can make a new sketch in the inside of the keycap! Select the bottom side of the hollowed-out keycap as shown, and create a sketch.
+
+![new sketch](https://github.com/user-attachments/assets/b8b73772-edd3-44f0-ad89-9b89acfee1fd)
+
+From here, the story changes. Cherry switches have a plus-shaped stem that's 4mm long and 1.17mm wide, but other brands of switches have their own dimensions. It's up to you to do research on the dimensions! <br/>
+
+![dimensions](https://github.com/user-attachments/assets/65f7f9e4-1088-48c7-9ba0-d774039dbb0f)
+
+For this tutorial, I will use the dimensions shown in the image above, as well as a stem diameter of 5.5mm. <br/>
+First, start with a circle with diameter 5.5mm centered at the origin (this should also be the center of the keycap if you centered the loft profiles on the origin!)
+
+![circl](https://github.com/user-attachments/assets/768d96cf-456c-4cca-a801-b191f25e966d)
+
+Next, use the Rectangle tool to draw out the plus shape of the stem, making sure the rectangles are dimensioned correctly to your keyswitch (I recommend using *Center Rectangle* here!)
+
+![stem](https://github.com/user-attachments/assets/8f7c570f-8b56-4ec3-a96d-2ddc506f0d14)
+
+Once you have that, finish the sketch and extrude the circle (EXCLUDING THE RECTANGLES!) downwards. The length of the extrusion depends once again on your switch, but 6-8mm tends to work out for me.
+
+![extrude](https://github.com/user-attachments/assets/c8b52d8c-f7ee-4577-9730-00aecc98640d)
+
+
+
+
+
+
