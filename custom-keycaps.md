@@ -123,7 +123,7 @@ Additionally, you can go a step further and draw on the keycap! By using the **C
 ![eyecap](https://github.com/user-attachments/assets/502e1607-18e3-4c9f-b2ed-890877259ac8)
 
 To add a canvas, go to Insert and click on the photograph icon named **Canvas**. After that, you can trace over it with any tool in the Sketch menu. <br/>
-The most common tool to trace with is with the **Fit Point Spline** tool, which automatically curve a line depending on the points specified. Other tools like lines, polygons, and circles can also be used, but typically depends on the design you're aiming for.
+The most common tool to trace with is with the **Fit Point Spline** tool, which automatically curves a line depending on the points specified. Other tools like lines, polygons, and circles can also be used, but typically depends on the design you're aiming for.
 
 ![splines](https://github.com/user-attachments/assets/57ecd68b-97ac-4dbf-aba6-b88dce6e450a)
 
