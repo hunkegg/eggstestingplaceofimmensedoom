@@ -32,14 +32,18 @@ After you have your base, click "Finish Sketch"! Once we do this, we should have
 ![rounded rectangle sketch](https://github.com/user-attachments/assets/ae495a99-a563-4c62-a017-38c8bf9e78a7)
 
 We will be using the **Loft** tool to create the general shape of the keycap. This tool essentially connects two sketch profiles that are on different planes by making a smooth transition between the two profiles. <br/>
+
 ![lofty lofty](https://github.com/user-attachments/assets/fb66b0c1-bf00-41c3-b4c7-2ee5e34f3634)
+
 When you look at a regular keycap, you'll typically see the keycap *taper*, or get smaller, near the top. To mimic this shape, we will be using the **Loft** tool alongside a smaller sketch profile to create the shape of the keycap. <br/>
 
 However, to first do this, we need a new plane to make our sketch on! This can be easily done by using the **Offset Plane** Construction tool! As the name implies, this tool makes a new plane to draw sketches on that is *offset*, or extended from, from the original plane. <br/>
 
 To make our new and shiny plane, select the **Offset Plane** tool under Construction and click on the square sketch as our plane. Then, drag the arrow up and down to adjust the height of the plane. <br/>
 We will be using 10mm for now! Normal MX keycaps around ~9.75mm, but I'm just rounding here. <br/>
+
 ![offset plane](https://github.com/user-attachments/assets/2f4a3711-ddf7-431b-8fe9-30a79e9636ff)
+
 Once we have our plane, select "OK". <br/>
 
 Now that we have our plane, we can make our second sketch required for the Loft! Select the Sketch tool and the newly created plane to create a new sketch on the plane. <br/>
@@ -47,14 +51,16 @@ From here, there are many ways to approach making the top profile. Due to the si
 > (I'll get into my own preferred method involving my goat later in the guide :3) <br/>
 
 To make a top profile, draw a circle or rectangle on the sketch plane. The position can vary depending on your preference, but for the sake of the guide, we will be centering the shape on the origin. Set the shape to 15mm on each side or in diameter and click "Finish Sketch".
-![2nd profile](https://github.com/user-attachments/assets/b46cbd4f-90b1-4b50-a4b3-c26eddb22465)
+
+![corcle](https://github.com/user-attachments/assets/9b2eece7-a267-484e-b585-7edc089f7fc3)
 
 Once we do that, we should have two sketch different sketch profiles that look like this:
-![ready to loft sir](https://github.com/user-attachments/assets/1c6af4fd-57a5-438b-8fe6-06c63d399c60)
+
+![ready to loft sir](https://github.com/user-attachments/assets/9cf6d298-0ea9-4171-92a3-71c14c0e6c51)
 
 Now, we can use Loft to make our keycap! Select **Loft** under Create, then click on the two sketch profiles. Once we do that, click "OK" to create the body.
-![lofty now](https://github.com/user-attachments/assets/b00a443c-d296-4bee-b6f1-a58e3d485c0c)
 
-We now have the general shape of our keycap, but currently, it's COMPLETELY solid. <br/>
+![we have loft off we have a loft off](https://github.com/user-attachments/assets/8591a956-f56d-4f3a-b5c9-31f0e061b962)
 
+We now have the general shape of our keycap, but currently, it's COMPLETELY solid... <br/>
 However, we can fix that by using the **Shell** Command. 
