@@ -43,6 +43,7 @@ However, to first do this, we need a new plane to make our sketch on! This can b
 To make our new and shiny plane, select the **Offset Plane** tool under Construction and click on the square sketch as our plane. Then, drag the arrow up and down to adjust the height of the plane. <br/>
 We will be using 10mm for now! Keycap height varies, but most non-low profile caps are around the ~9-10mm range. <br/>
 
+![construct plane](https://github.com/user-attachments/assets/ab74c5a4-8f67-4504-b4f4-862e9b0bbcef)
 ![offset plane](https://github.com/user-attachments/assets/2f4a3711-ddf7-431b-8fe9-30a79e9636ff)
 
 Once we have our plane, select "OK". <br/>
