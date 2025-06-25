@@ -135,8 +135,9 @@ To change the shape of the keycap, you can go into **Fusion's timeline**, a bar 
 * Do you want a differently sized base? Maybe you want chamfers? Go into the first sketch and change the shape and update the loft (or any features that break/need to be updated)!
 * Do you want a taller/shorter keycap? Go into the **Offset Plane** and adjust the height! make it 1,000,000 millimeters tall i dont care
 * Do you want a differently shaped top? Go into the second sketch set on the offset plane and change it!
+  
 ![shape](https://github.com/user-attachments/assets/937bc0b8-b5d6-4615-91e1-342124b70e01)
-![tall boi](https://github.com/user-attachments/assets/4d123974-8d30-4d8e-8590-74d775974717)
+
 Additionally, if you already have a shape in mind, you can **preemptively** design the shape while making the keycap, leading to less errors and more control over the design, which is what I did when making my custom octogon-like keycaps for the Engiboard! <br/>
 
 *You can do anything with custom keycaps!* <br/>
