@@ -146,7 +146,7 @@ Additionally, if you already have a shape in mind, you can **preemptively** desi
 
 ![i took the wooooook](https://github.com/user-attachments/assets/fa53a4ec-1073-4249-b047-45fed80f3219)
 
-* Do you want a typewriter-styled keycap with an A on it? Make a circular base, offset the 2nd profile by 6mm, make another circle, loft it, then add your text in with a border! <br/>
+* Do you want a typewriter-styled keycap with an A on it? Make a circular base, offset the 2nd profile by 6mm, make another circle, loft it, then add your text in with a border with a fillet on the inside edge! <br/>
 
 ![typewriter](https://github.com/user-attachments/assets/454c56a7-4841-484c-88c5-63837e0d097b)
 
