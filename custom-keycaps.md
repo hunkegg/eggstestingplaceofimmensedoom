@@ -3,7 +3,8 @@
 Try making your own custom keycaps! <br/>
 This short guide will go over my process of making **custom keycaps** for my Highway projects (as well as going over some handy CAD commands)
 
-> guide by @egg_splats! check out my other keyboard-related projects, [the Biblically Accurate Keyboard](https://github.com/hunkegg/biblicallyaccuratekeyboard) and [the Engipad](https://github.com/hunkegg/engipad)
+> guide by @egg_splats! check out my other keyboard-related projects, [the Biblically Accurate Keyboard](https://github.com/hunkegg/biblicallyaccuratekeyboard) and [the Engipad](https://github.com/hunkegg/engipad) <br/>
+> 
 > FYI, this guide will be using Fusion 360! this guide will also be modeling keycaps for standard MX switches (no low-profile switches, but feel free to take notes/inspiration!)
 
 ## ...but why?
