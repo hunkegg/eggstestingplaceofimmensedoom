@@ -37,5 +37,8 @@ We will be using 10mm for now! Normal MX keycaps around ~9.75mm, but I'm just ro
 Once we have our plane, select "OK". <br/>
 
 Now that we have our plane, we can make our second sketch required for the Loft! Select the Sketch tool and the newly created plane to create a new sketch on the plane. <br/>
-From here, there are many ways to approach making the top profile. Due to the simplicity of the current model, you *could* get away with making another rectangle/circle centered on the origin, but there is another way which I **strongly*** recommend, which is... <br/>
-### PROJECT TOOL
+From here, there are many ways to approach making the top profile. Due to the simplicity of the model, we can get away with using a regular old rectangle or circle as our top profile. <br/>
+> (I'll get into my own preferred method involving my goat, the project tool, later in the guide :3) <br/>
+
+To make a top profile, draw a circle or rectangle on the sketch plane. The position can vary depending on your preference, but for the sake of the guide, we will be centering the shape on the origin. Set the shape to 15mm on each side or in diameter and click "Finish Sketch".
+![2nd profile](https://github.com/user-attachments/assets/b46cbd4f-90b1-4b50-a4b3-c26eddb22465)
